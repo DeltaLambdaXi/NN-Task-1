@@ -18,3 +18,5 @@
 - `#LBL11` — flip, поворот, ColorJitter. На сетке классов оттенок разный, верх у патча не задан
 - `#LBL12` — resume поднимает Adam из чекпоинта и продолжает со следующей эпохи (проверка на tiny, `checkpoints/resume_demo`)
 - `#LBL13` — сначала голова, потом вся сеть, cosine по эпохам
+
+**Ссылка на Colab**: https://drive.google.com/file/d/12B83BphD8eR1dlqugFj2Iqr5cm_qeIPL/view?usp=sharing
